@@ -3,7 +3,7 @@
 #include <boost/test/unit_test.hpp>
 
 #include "../Vector2.h"
-typedef Vector2f Vec2;
+typedef VecMaths::Vector2f Vec2;
 
 // Test cases for Vector2 math class.
 
